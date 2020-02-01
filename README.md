@@ -1,3 +1,12 @@
+
+//more complete version
+perl ago.pl>afish.txt
+perl atime23now.pl>atime.txt
+perl ago10.pl > aaa2.csv
+
+
+
+
 here is perl scripts
 
 perl rem.pl>adn2.txt
